@@ -17,7 +17,7 @@ IS_TEST = False
 RESUME = False
 LANG = "Traditional Chinese"
 
-"test"
+"test1"
 class Base:
     def __init__(self, key):
         pass
